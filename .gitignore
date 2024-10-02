@@ -1,0 +1,18 @@
+# database
+
+# data related to database content
+uploads/
+# image visualization output
+visualized/
+/_pycache_
+/received_data
+/ReflectanceDataS2T2
+/sed.ipynb
+__pycache__/models.cpython-312.pyc
+example/HSI_inspect/season2_trip2.ipynb
+example/Plotting points/convertCoordinate.py
+/instance
+/instance
+instance/ricedata.db
+*.pyc
+/__pycache__
